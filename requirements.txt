@@ -1,5 +1,6 @@
 streamlit
-tensorflow==2.16.1
+torch
+torchvision
 numpy
 pandas
 pillow
